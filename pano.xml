@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node2" apprev="20981" hassounds="0" appversion="7.1.7">
+  <panorama id="node2">
+    <input levelingpitch="0" height="2048" levelingroll="0" overlap="1" levelbiashidpi="1.000" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" leveltilesize="510" levelbias="0.400">
+      <level height="2048" width="2048" predecode="0" preload="0"/>
+      <level height="1024" width="1024" predecode="0" preload="0"/>
+      <level height="512" width="512" predecode="0" preload="0"/>
+      <level height="256" width="256" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" fov="140" pan="360" fovstereographic="330"/>
+    </view>
+    <userdata author="" longitude="" customnodeid="" info="" tags="Tritonos" latitude="" title="" copyright="" comment="" nodeid="node2" description="" source="" heading="0" datetime="17/1/2025 17:46"/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label bordercolor="0x000000" backgroundcolor="0xffffff" height="20" wordwrap="1" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1" width="180" borderradius="1" textalpha="1" enabled="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot title="" url="{node3}" tilt="-20.14" description="" id="Point01" target="" pan="-287.61" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="40" delay="none" softedge="0" blendtime="1" zoomfov="40" zoomout="0" type="crossdissolve" zoomoutpause="1" zoomafterinfov="140" enabled="1" zoomin="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" simulatemass="1" lockedmouse="0" invertwheel="0" contextfullscreen="1" lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboard="0" contextvr="1" contextprojections="0" sensitivity="8" zoomcentercursor="1" hideabout="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node1">
+    <input levelingpitch="0" height="2048" levelingroll="0" overlap="1" levelbiashidpi="1.000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" leveltilesize="510" levelbias="0.400">
+      <level height="2048" width="2048" predecode="0" preload="0"/>
+      <level height="1024" width="1024" predecode="0" preload="0"/>
+      <level height="512" width="512" predecode="0" preload="0"/>
+      <level height="256" width="256" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" fov="140" pan="360" fovstereographic="330"/>
+    </view>
+    <userdata author="" longitude="" customnodeid="" info="" tags="Tritonos" latitude="" title="" copyright="" comment="" nodeid="node1" description="" source="" heading="0" datetime=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label bordercolor="0x000000" backgroundcolor="0xffffff" height="20" wordwrap="1" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1" width="180" borderradius="1" textalpha="1" enabled="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot title="" url="{node2}" tilt="-19.38" description="" id="Point01" target="" pan="-289.46" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="40" delay="none" softedge="0" blendtime="1" zoomfov="40" zoomout="0" type="crossdissolve" zoomoutpause="1" zoomafterinfov="140" enabled="1" zoomin="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" simulatemass="1" lockedmouse="0" invertwheel="0" contextfullscreen="1" lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboard="0" contextvr="1" contextprojections="0" sensitivity="8" zoomcentercursor="1" hideabout="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelingpitch="0" height="2048" levelingroll="0" overlap="1" levelbiashidpi="1.000" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" leveltilesize="510" levelbias="0.400">
+      <level height="2048" width="2048" predecode="0" preload="0"/>
+      <level height="1024" width="1024" predecode="0" preload="0"/>
+      <level height="512" width="512" predecode="0" preload="0"/>
+      <level height="256" width="256" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" fov="140" pan="360" fovstereographic="330"/>
+    </view>
+    <userdata author="" longitude="" customnodeid="" info="" tags="Tritonos" latitude="" title="" copyright="" comment="" nodeid="node3" description="" source="" heading="0" datetime=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label bordercolor="0x000000" backgroundcolor="0xffffff" height="20" wordwrap="1" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1" width="180" borderradius="1" textalpha="1" enabled="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="40" delay="none" softedge="0" blendtime="1" zoomfov="40" zoomout="0" type="crossdissolve" zoomoutpause="1" zoomafterinfov="140" enabled="1" zoomin="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" simulatemass="1" lockedmouse="0" invertwheel="0" contextfullscreen="1" lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboard="0" contextvr="1" contextprojections="0" sensitivity="8" zoomcentercursor="1" hideabout="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelingpitch="0" height="2048" levelingroll="0" overlap="1" levelbiashidpi="1.000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" leveltilesize="510" levelbias="0.400">
+      <level height="2048" width="2048" predecode="0" preload="0"/>
+      <level height="1024" width="1024" predecode="0" preload="0"/>
+      <level height="512" width="512" predecode="0" preload="0"/>
+      <level height="256" width="256" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" fov="140" pan="360" fovstereographic="330"/>
+    </view>
+    <userdata author="" longitude="" customnodeid="" info="" tags="Tritonos" latitude="" title="" copyright="" comment="" nodeid="node4" description="" source="" heading="0" datetime=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label bordercolor="0x000000" backgroundcolor="0xffffff" height="20" wordwrap="1" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1" width="180" borderradius="1" textalpha="1" enabled="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot title="" url="{node5}" tilt="-18.9" description="" id="Point01" target="" pan="-311.96" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="40" delay="none" softedge="0" blendtime="1" zoomfov="40" zoomout="0" type="crossdissolve" zoomoutpause="1" zoomafterinfov="140" enabled="1" zoomin="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" simulatemass="1" lockedmouse="0" invertwheel="0" contextfullscreen="1" lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboard="0" contextvr="1" contextprojections="0" sensitivity="8" zoomcentercursor="1" hideabout="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelingpitch="0" height="2048" levelingroll="0" overlap="1" levelbiashidpi="1.000" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" leveltilesize="510" levelbias="0.400">
+      <level height="2048" width="2048" predecode="0" preload="0"/>
+      <level height="1024" width="1024" predecode="0" preload="0"/>
+      <level height="512" width="512" predecode="0" preload="0"/>
+      <level height="256" width="256" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" fov="140" pan="360" fovstereographic="330"/>
+    </view>
+    <userdata author="" longitude="" customnodeid="" info="" tags="Tritonos" latitude="" title="" copyright="" comment="" nodeid="node5" description="" source="" heading="0" datetime=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label bordercolor="0x000000" backgroundcolor="0xffffff" height="20" wordwrap="1" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1" width="180" borderradius="1" textalpha="1" enabled="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot title="" url="{node6}" tilt="-26.4" description="" id="Point01" target="" pan="-332.08" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="40" delay="none" softedge="0" blendtime="1" zoomfov="40" zoomout="0" type="crossdissolve" zoomoutpause="1" zoomafterinfov="140" enabled="1" zoomin="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" simulatemass="1" lockedmouse="0" invertwheel="0" contextfullscreen="1" lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboard="0" contextvr="1" contextprojections="0" sensitivity="8" zoomcentercursor="1" hideabout="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelingpitch="0" height="2048" levelingroll="0" overlap="1" levelbiashidpi="1.000" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" leveltilesize="510" levelbias="0.400">
+      <level height="2048" width="2048" predecode="0" preload="0"/>
+      <level height="1024" width="1024" predecode="0" preload="0"/>
+      <level height="512" width="512" predecode="0" preload="0"/>
+      <level height="256" width="256" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" fov="140" pan="360" fovstereographic="330"/>
+    </view>
+    <userdata author="" longitude="" customnodeid="" info="" tags="Tritonos" latitude="" title="" copyright="" comment="" nodeid="node6" description="" source="" heading="0" datetime=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label bordercolor="0x000000" backgroundcolor="0xffffff" height="20" wordwrap="1" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1" width="180" borderradius="1" textalpha="1" enabled="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot title="" url="{node7}" tilt="-21.82" description="" id="Point01" target="" pan="-315.29" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="40" delay="none" softedge="0" blendtime="1" zoomfov="40" zoomout="0" type="crossdissolve" zoomoutpause="1" zoomafterinfov="140" enabled="1" zoomin="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" simulatemass="1" lockedmouse="0" invertwheel="0" contextfullscreen="1" lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboard="0" contextvr="1" contextprojections="0" sensitivity="8" zoomcentercursor="1" hideabout="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelingpitch="0" height="2048" levelingroll="0" overlap="1" levelbiashidpi="1.000" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" leveltilesize="510" levelbias="0.400">
+      <level height="2048" width="2048" predecode="0" preload="0"/>
+      <level height="1024" width="1024" predecode="0" preload="0"/>
+      <level height="512" width="512" predecode="0" preload="0"/>
+      <level height="256" width="256" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" fov="140" pan="360" fovstereographic="330"/>
+    </view>
+    <userdata author="" longitude="" customnodeid="" info="" tags="Tritonos" latitude="" title="" copyright="" comment="" nodeid="node7" description="" source="" heading="0" datetime=""/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label bordercolor="0x000000" backgroundcolor="0xffffff" height="20" wordwrap="1" background="1" backgroundalpha="1" borderalpha="1" textcolor="0x000000" border="1" width="180" borderradius="1" textalpha="1" enabled="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot title="" url="{node1}" tilt="-14.55" description="" id="Point01" target="" pan="-256.98" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomspeed="2" zoomafteroutfov="40" delay="none" softedge="0" blendtime="1" zoomfov="40" zoomout="0" type="crossdissolve" zoomoutpause="1" zoomafterinfov="140" enabled="1" zoomin="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control rubberband="0" simulatemass="1" lockedmouse="0" invertwheel="0" contextfullscreen="1" lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboard="0" contextvr="1" contextprojections="0" sensitivity="8" zoomcentercursor="1" hideabout="0" invertcontrol="1"/>
+  </panorama>
+  <masternode>
+    <userdata title="" author="" copyright="" comment="" description="" tags=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
